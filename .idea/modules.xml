@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/imoocOa.iml" filepath="$PROJECT_DIR$/.idea/imoocOa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oa/oa.iml" filepath="$PROJECT_DIR$/oa/oa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oa/oa_biz/oa_biz.iml" filepath="$PROJECT_DIR$/oa/oa_biz/oa_biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oa/oa_dao/oa_dao.iml" filepath="$PROJECT_DIR$/oa/oa_dao/oa_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oa/oa_web/oa_web.iml" filepath="$PROJECT_DIR$/oa/oa_web/oa_web.iml" />
+    </modules>
+  </component>
+</project>
